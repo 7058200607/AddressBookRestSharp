@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressBookRestSharp", "AddressBookRestSharp\AddressBookRestSharp.csproj", "{10622DD8-F694-4E15-A4A8-A522F0406091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{E3029FDA-FCAB-4D19-820D-38819A9F2830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10622DD8-F694-4E15-A4A8-A522F0406091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10622DD8-F694-4E15-A4A8-A522F0406091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10622DD8-F694-4E15-A4A8-A522F0406091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10622DD8-F694-4E15-A4A8-A522F0406091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3029FDA-FCAB-4D19-820D-38819A9F2830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3029FDA-FCAB-4D19-820D-38819A9F2830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3029FDA-FCAB-4D19-820D-38819A9F2830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3029FDA-FCAB-4D19-820D-38819A9F2830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {471F63EA-3E78-4B24-96A5-66F0D810B07C}
+	EndGlobalSection
+EndGlobal
